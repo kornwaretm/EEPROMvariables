@@ -1,0 +1,6 @@
+EEPROMvariables	KEYWORD1
+declare			KEYWORD2
+dump			KEYWORD2
+write			KEYWORD2
+read			KEYWORD2
+clear			KEYWORD2
